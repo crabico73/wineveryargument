@@ -1,4 +1,8 @@
 export default function PremiumPage() {
   return (
-    <main>
-      <div className=\
+    <div>
+      <h1>Premium Plans</h1>
+      <p>Coming soon - Premium subscription options</p>
+    </div>
+  );
+}
